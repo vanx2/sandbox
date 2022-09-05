@@ -5,7 +5,7 @@ import(
 )
 
 func main() {
-  fmt.Println("Yatani3")
+  fmt.Println("Yatani4")
 }
 
 
